@@ -11,7 +11,7 @@
 	/* 1024-ს დაბლა რა დიზაინი ჩაიტვირთოს */
 
 	.grid-section {
-		background-image: url(../images/post-1.png);
+		background-image: url(../images/post-0.svg);
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -20,7 +20,7 @@
 		grid-template-columns: 1fr 1fr;
 	}
 	.item {
-		background-color: darkblue;
+		background-color: white;
 		color: white;
 		border-radius: 20px;
 	}
